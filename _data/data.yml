@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Troy D. White
     tagline: I help people build successful careers. Sometimes distracted by a maltese poodle.
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: troydwhite@gmail.com
@@ -28,7 +28,7 @@ sidebar:
       - idiom: English
         level: Native
 
-    skills:
+    interests:
       - item: Climbing
         link:
 
@@ -54,11 +54,7 @@ education:
       university: University of Washington
       time:
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Program in Entrepreneurship & Innovation
 
           - Bullet point
           - Bullet point
