@@ -24,7 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    skills:
+    language:
       - idiom: English
         level: Native
 
@@ -50,9 +50,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MBA
+      university: University of Washington
+      time:
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
