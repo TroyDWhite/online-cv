@@ -53,7 +53,8 @@ education:
     - degree: MBA
       university: University of Washington
       time:
-      details: Program in Entrepreneurship & Innovation
+      details: | 
+        Program in Entrepreneurship & Innovation
 
     - degree: BSCE
       university: University of Maine
