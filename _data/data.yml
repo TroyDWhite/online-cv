@@ -25,13 +25,13 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
         
     languages:
