@@ -34,7 +34,7 @@ sidebar:
       - item:
         link:
         
-    languages:
+    # languages:
       - idiom:
         level:
 
