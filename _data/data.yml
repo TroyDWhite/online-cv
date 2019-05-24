@@ -25,18 +25,18 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     interests:
-      - item: 
+      - item:
         link:
 
-      - item: 
+      - item:
         link:
 
-      - item: 
+      - item:
         link:
         
     languages:
-      - idiom: English
-        level: Native
+      - idiom:
+        level:
 
 career-profile:
     title: Career Profile
