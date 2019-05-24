@@ -157,14 +157,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: SEO
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Marketing Automation
+        level: 85%
 
-      - name: Angular
-        level: 98%
+      - name: Online Collaboration Tools
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
