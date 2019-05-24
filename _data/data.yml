@@ -78,7 +78,7 @@ experience:
       details: |
         FBLA-PBL is an education association that helps students prepare for careers in business. With over 250,000 members, it is the largest student business organization in the world.
 
-- role: Author, ‘Use LinkedIn to Get Into Your Dream College'
+    - role: Author, ‘Use LinkedIn to Get Into Your Dream College'
       time: 2015
       company: <a href="https://LinkedInToCollege.com">LinkedInToCollege.com</a>
       details: |
@@ -143,7 +143,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Use LinkedIn to Get Into Your Dream College
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
