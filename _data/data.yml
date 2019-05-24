@@ -52,6 +52,7 @@ career-profile:
 education:
     - degree: MBA
       university: University of Washington
+      link: https://google.com
       time:
       details: | 
         Program in Entrepreneurship & Innovation
