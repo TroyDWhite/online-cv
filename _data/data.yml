@@ -41,35 +41,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Entrepreneurial Marketing Strategist
+      Leverage New Technology to Grow Business, Connect with Customers
+      Strategically Develop Relationships and New Markets
 
-      Second paragraph if required.
+      I use creative integrated marketing strategies to define and deliver products for C-level customers, prospects and members.
 
 education:
     - degree: MBA
       university: University of Washington
-      link: https://google.com
+      link: 
       time:
       details: | 
         Program in Entrepreneurship & Innovation
-          - Entrepreneurship
+          - Study abroad at IE University, Madrid
 
     - degree: BSCE
       university: University of Maine
       time:
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Civil Engineering, focus on environmental
 
 experience:
     - role: Director of Marketing & Membership
