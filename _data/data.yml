@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Troy D.. White
+    name: Troy D. White
     tagline: I help people build successful careers. Sometimes distracted by a maltese poodle.
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -17,11 +17,11 @@ sidebar:
     website: linkedintocollege.com #do not add http://
     linkedin: troydwhite
     github: troydwhite
-    gitlab: #
-    bitbucket: #
+    gitlab: 
+    bitbucket: 
     twitter: '@troydwhite'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: #
+    codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
     
     #interests:
