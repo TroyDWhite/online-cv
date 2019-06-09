@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Troy D. White
-    tagline: Full Stack Developer
+    tagline: I help people build successful careers. Sometimes distracted by a maltese poodle.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,42 +28,33 @@ sidebar:
     # - idiom: English
     #    level: Native
 
-    # interests:
-    # - item: Climbing
-    #  link:
+    interests:
+      - item: Happy to Travel
+        link:
+
+      - item: Work Remotely
+        link:
+     
+      - item: Willing to Relocate
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Entrepreneurial Marketing Strategist, Leverage New Technology to Grow Business, Connect with Customers,  Strategically Develop Relationships and New Markets.
+      Entrepreneurial Marketing Strategist &#916; Strategically Develop Relationships and New Markets &#916; Leverage New Technology to Grow Business, Connect with Customers
       I use creative integrated marketing strategies to define and deliver products for C-level customers, prospects and members.
-
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MBA
+      university: University of Washington
+      time: 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        - Program in Entrepreneurship & Innovation
+        - Study Abroad: IE Business School, Madrid
+    - degree: BSCE
+      university: University of Maine
+      time: 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Study Abroad: University of Idaho
 
 experiences:
     - role: Lead Developer
