@@ -24,7 +24,7 @@ sidebar:
     codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
     
-    #interests:
+    # interests:
       - item:
         link:
 
@@ -34,7 +34,7 @@ sidebar:
       - item:
         link:
         
-    #languages:
+    # languages:
       - idiom:
         level:
 
