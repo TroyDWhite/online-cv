@@ -3,46 +3,41 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Troy D. White
-    tagline: I help people build successful careers. Sometimes distracted by a maltese poodle.
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: troydwhite@gmail.com
     phone: 914-623-8769
-    website: linkedintocollege.com #do not add http://
+    website: LinkedInToCollege.com #do not add http://
     linkedin: troydwhite
     github: troydwhite
+    gitlab:
+    bitbucket:
     twitter: '@troydwhite'
-    
-    interests:
-      - item: dogs
-        link:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
-      - item:
-        link:
+    # languages:
+    # - idiom: English
+    #    level: Native
 
-      - item:
-        link:
-        
-    languages:
-      - idiom: English
-        level: native
+    # interests:
+    # - item: Climbing
+    #  link:
 
 career-profile:
     title: Career Profile
     summary: |
-       Entrepreneurial Marketing Strategist, Leverage New Technology to Grow Business, Connect with Customers,  Strategically Develop Relationships and New Markets
+      Entrepreneurial Marketing Strategist, Leverage New Technology to Grow Business, Connect with Customers,  Strategically Develop Relationships and New Markets.
 
-       I use creative integrated marketing strategies to define and deliver products for C-level customers, prospects and members.
-      
-       View my LinkedIn profile for more details and download my resume.
-      
-       HAPPY TO TRAVEL,  WORK REMOTELY, WILLING TO RELOCATE
+      I use creative integrated marketing strategies to define and deliver products for C-level customers, prospects and members.
 
 education:
     - degree: MBA
