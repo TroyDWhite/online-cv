@@ -43,6 +43,12 @@
       <a href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.wechat %}
+    <li class="wechat"><i class="fab fa-weixin"></i>
+      <a href="{{ sidebar.wechat }}" target="_blank">{{ sidebar.wechat }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.bitbucket %}
     <li class="bitbucket"><i class="fab fa-bitbucket"></i>
