@@ -23,6 +23,20 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
+    
+     # interests:
+      - item:
+        link:
+
+      - item:
+        link:
+
+      - item:
+        link:
+        
+    # languages:
+      - idiom:
+        level:
 
 career-profile:
     title: Career Profile
@@ -48,13 +62,13 @@ education:
       university: University of Maine
       time:
       details: |
-        - Study abroad at University of Idaho
+        Study abroad at University of Idaho
                     
     - degree: Financial Planning Certificate
       university: New York University School of Continuing Studies
       time:
       details: |
-        - Certified at own expense while teaching workshops at Council for Economic Education   
+        Certified at own expense while teaching workshops at Council for Economic Education   
 
 experience:
     - role: Director of Marketing & Membership
