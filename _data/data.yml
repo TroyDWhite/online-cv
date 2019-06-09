@@ -128,7 +128,7 @@ experience:
       details: | 
         Call center software
 
-projects:
+#projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
