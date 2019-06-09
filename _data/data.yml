@@ -1,0 +1,198 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Troy D. White
+    tagline: I help people build successful careers. Sometimes distracted by a maltese poodle.
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: troydwhite@gmail.com
+    phone: 914-623-8769
+    website: LinkedInToCollege.com #do not add http://
+    linkedin: troydwhite
+    github: troydwhite
+    gitlab:
+    bitbucket:
+    twitter: '@troydwhite'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    # languages:
+    # - idiom: English
+    #    level: Native
+
+    interests:
+      - item: Happy to Travel
+        link:
+
+      - item: Work Remotely
+        link:
+     
+      - item: Willing to Relocate
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Entrepreneurial Marketing Strategist &#916; Strategically Develop Relationships and New Markets &#916; Leverage New Technology to Grow Business, Connect with Customers
+
+      I use creative integrated marketing strategies to define and deliver products for C-level customers, prospects and members.
+
+education:
+    - degree: MBA
+      university: University of Washington
+      time: 
+      details: |
+        - Program in Entrepreneurship & Innovation
+
+        - Study Abroad: IE Business School, Madrid
+
+    - degree: BSCE
+      university: University of Maine
+      time: 
+      details: |
+        - Study Abroad: University of Idaho
+        
+    - degree: Financial Planning Certificate
+      university: New York University School of Professional Studies
+      time: 
+      details: |
+        - Self-funded studies while leading personal finance workshops at Council for Economic Education
+
+experiences:
+    - role: Director of Marketing & Membership
+      time: 2011 - present
+      company: <a href="https://fbla.org">Future Business Leaders of America-Phi Beta Lambda (FBLA-PBL)</a>
+      details: |
+        FBLA-PBL is an education association that helps students prepare for careers in business. With over 250,000 members, it is the largest student business organization in the world.
+
+          - Generate $1.5M in revenue (~21% of total revenue) with $390k operating budget. Manage staff of 5 across membership, communications, customer service.
+          - Develop scope & sequence for membership programs that service 250,000 members world-wide. Position core products for market and ensure relevance between classroom and workplace.
+          - Initiate and optimize social media strategy to engage with young audience across various channels.
+          - Implement new AMS database, including addition of new functionalities, align to organization goals and budget, and ensure needs of diverse customer set of state directors, teachers, and students are met.
+          - Establish & implement pre-conference and onsite communications strategy for 15,000 student annual conference. Leverage social media for engagement and content distribution. Trended on Twitter in 2016 & 2017.
+          - Revamp training program and online resource center for state directors to drive local recruitment and retention efforts.
+
+    - role: Author, 'Use LinkedIn to Get Into Your Dream College'
+      time: 2015
+      company: Self-published
+      details: |
+        I wrote and self-published the first book on how to use LinkedIn in high school, <i>Use LinkedIn to Get Into Your Dream College</i>, a step-by-step guide to:
+
+          - building a profile of accomplishments
+          - connecting with the right people
+          - researching and finding the ideal college
+          
+    - role: Co-founder & Chief Cloud Officer
+      time: 2010 - 2011
+      company: Cloud Owl Technology & Educational Applications
+      details: |
+        Cloud Owl Technology & Educational Applications is an educational consulting company focused on implementing Web 2.0 and social technologies into K-12 classrooms, with a primary focus on Google Apps for Education.
+
+    - role: Sr. Director of Sales & Marketing
+      time: 2003 - 2010
+      company: Council for Economic Education
+      details: |
+        Developed and implemented comprehensive direct-to-teacher marketing strategy to increase demand for K-12 educational programs. Expanded into elementary and middle school markets, ultimately bolstering paid customer base from 7,000 to over 30,000 teachers per year and reaching more than 150,000 K-12 teachers in more than 30 countries.
+
+        - Defined and initiated comprehensive direct marketing strategy to increase demand for K-12 educational programs. Implemented technology tools and workflow processes resulting in market and revenue expansion for publisher.
+        - Increased sales of international product portfolio from $750,000 to over $1.85M (~16% of total revenue) by managing sales cycle: prospecting, lead generation, needs analysis, proposal writing, conversion, contract execution and follow-up.
+        - Implemented automated lead nurturing program to convert highest potential prospects. Expanded in-house database from 11,000 to over 175,000 customers and prospects.
+        - As Voice of Customer, partnered with internal departments and national affiliates to ensure product offerings met increased customer demands. Produced creative, effective results in newly identified market segments.
+        - Significantly increased brand and product awareness via face-to-face consultations, creating and delivering live product demonstrations and in-service workshops at over 25 national education conferences per year.
+        - Established district and state-level relationships with key influencers, culminating in state-wide adoption of training workshops and course materials.
+        - Developed integrated marketing strategy for online personal finance game, including early adoption of Twitter and Facebook to promote program and drive student engagement.
+
+    - role: Web Marketing Strategist
+      time: 2000 - 2001
+      company: American Management Association
+      details: |
+        - Developed initial digital marketing and content delivery strategy in newly-created position. Created and directed sales channel development, e-mail and web marketing strategy for $125M seminar division within management training company.          
+        - Increased online registration revenue from $23.5M to $39M (~12% of total revenue) within 12 months and exceeded budgeted goal by $9M.
+        - Developed and launched first e-learning module to blend in-class experience with extended online learning, developing leadership presence in new market and generating $3.4M in revenue.
+    
+    - role: B-to-B Marketing Manager
+      time: 
+      company: Kaplan Education
+      details: | 
+        Call center software
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
