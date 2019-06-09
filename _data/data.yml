@@ -125,7 +125,8 @@ experience:
     - role: B-to-B Marketing Manager
       time: 
       company: Kaplan Education
-      details: | Call center software
+      details: | 
+        Call center software
 
 # projects:
     title: Metrics
