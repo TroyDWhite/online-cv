@@ -22,8 +22,8 @@ sidebar:
     codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
     
-     # interests:
-      - item:
+     interests:
+      - item: dogs
         link:
 
       - item:
@@ -32,9 +32,9 @@ sidebar:
       - item:
         link:
         
-    # languages:
-      - idiom:
-        level:
+    languages:
+      - idiom: English
+        level: native
 
 career-profile:
     title: Career Profile
