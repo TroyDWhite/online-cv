@@ -25,6 +25,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    instagram: troydwhite
+    youtube: whitetroyd
 
     # languages:
     # - idiom: English
@@ -32,7 +34,7 @@ sidebar:
 
     interests:
       - item: Happy to Travel
-        link:
+        link: https://my.flightmemory.com/troydwhite
 
       - item: Work Remotely
         link:
