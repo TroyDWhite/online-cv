@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Troy D.. White, Educational Marketing
+title: Troy D. White, Educational Marketing Strategist
 url: 'http://linkedin.com/in/troydwhite'
 baseurl: '/online-cv' #change it according to your repository name
 description: I help people build successful careers. Sometimes distracted by a maltese poodle.
