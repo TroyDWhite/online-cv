@@ -44,12 +44,6 @@
     </li>
     {% endif %}
     
-    {% if sidebar.wechat %}
-    <li class="wechat"><i class="fab fa-weixin"></i>
-      <a href="{{ sidebar.wechat }}" target="_blank">WeChat Me</a>
-    </li>
-    {% endif %}
-    
     {% if sidebar.instagram %}
     <li class="instagram"><i class="fab fa-instagram"></i>
       <a href="https://www.instagram.com/{{ sidebar.instagram }}" target="_blank">{{ sidebar.instagram }}</a>
@@ -71,6 +65,18 @@
     {% if sidebar.twitter %}
     <li class="twitter"><i class="fab fa-twitter"></i>
       <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
+    </li>
+    {% endif %}
+    
+    {% if sidebar.WhatsApp %}
+    <li class="WhatsApp"><i class="fab fa-whatsapp"></i>
+      <a href="{{ sidebar.WhatsApp }}" target="_blank">https://wa.me/{{ sidebar.WhatsApp }}</a>
+    </li>
+    {% endif %}
+    
+     {% if sidebar.wechat %}
+    <li class="wechat"><i class="fab fa-weixin"></i>
+      <a href="{{ sidebar.wechat }}" target="_blank">WeChat Me</a>
     </li>
     {% endif %}
 
@@ -95,12 +101,6 @@
     {% if sidebar.PDF %}
     <li class="PDF"><i class="far fa-file-pdf fa-lg"></i>
       <a href="{{ sidebar.PDF }}" target="_blank">&nbsp;Resume [PDF]</a>
-    </li>
-    {% endif %}
-    
-    {% if sidebar.WhatsApp %}
-    <li class="WhatsApp"><i class="fab fa-whatsapp"></i>
-      <a href="{{ sidebar.WhatsApp }}" target="_blank">https://wa.me/{{ sidebar.WhatsApp }}</a>
     </li>
     {% endif %}
 
