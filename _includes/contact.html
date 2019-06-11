@@ -46,7 +46,7 @@
     
     {% if sidebar.wechat %}
     <li class="wechat"><i class="fab fa-weixin"></i>
-      <a href="{{ sidebar.wechat }}" target="_blank">Troy on WeChat</a>
+      <a href="{{ sidebar.wechat }}" target="_blank">WeChat Me</a>
     </li>
     {% endif %}
     
@@ -95,6 +95,12 @@
     {% if sidebar.PDF %}
     <li class="PDF"><i class="far fa-file-pdf fa-lg"></i>
       <a href="{{ sidebar.PDF }}" target="_blank">&nbsp;Resume [PDF]</a>
+    </li>
+    {% endif %}
+    
+    {% if sidebar.WhatsApp %}
+    <li class="WhatsApp"><i class="fab fa-whatsapp"></i>
+      <a href="{{ sidebar.WhatsApp }}" target="_blank">https://wa.me/{{ sidebar.WhatsApp }}</a>
     </li>
     {% endif %}
 
