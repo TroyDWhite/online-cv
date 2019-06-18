@@ -10,6 +10,7 @@ sidebar:
     name: Troy D. White
     tagline: I help people build successful careers. Frequently distracted by a maltese poodle.
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    zoe: Zoe-Jeep.jpg
 
     # Sidebar links
     email: education@troydwhite.io
