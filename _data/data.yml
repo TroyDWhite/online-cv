@@ -48,10 +48,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      <li>Entrepreneurial Marketing Strategist</li>
+      <ul><li>Entrepreneurial Marketing Strategist</li>
       <li>Strategically Develop Relationships and New Markets</li>
-      <li>Leverage New Technology and Automation to Grow Business, Connect with Customers</li>
-
+      <li>Leverage New Technology and Automation to Grow Business, Connect with Customers</li></ul>
+    
       <p>I use creative integrated marketing strategies to define and deliver products for C-level customers, prospects and members. My education marketing career has spanned professional development, K-16 education, and youth leadership. I've been an early adopter of edtech, including e-learning and educational gaming.</p>
       
       <p style="text-align: center;">GROWTH &#8226; REVENUE &#8226; LEADERSHIP</p>
