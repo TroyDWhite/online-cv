@@ -190,6 +190,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Data Analysis
+        level: 94%
+        
       - name: SEO
         level: 98%
 
